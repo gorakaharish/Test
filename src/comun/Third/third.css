@@ -1,0 +1,33 @@
+/* third */
+.third{
+    background-color: rgb(243, 226, 228);
+    height: 80vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .third_part h1{
+    color: #51BB41;
+    font-size: 40px ;
+    font-family: "Poppins";
+    margin: 0px 0px 0px 8px;
+    font-weight: 700;
+  }
+
+  .third_part p{
+    color: #4E4E4E;
+    font-size: 18px;
+    font-family: "Poppins";
+    margin: 0px 0px 0px 8px;
+  }
+
+  .third_part h2{
+    color: #080809;
+    font-size: 25px;
+    font-family: "Poppins";
+    margin: 0px 0px 0px 8px;
+  }
+
+  

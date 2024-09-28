@@ -1,0 +1,21 @@
+.btn_2{
+    font-size: 14px !important;
+    color: #28A745 !important;
+}
+.btn_2:hover{
+    background-color: #28A745 !important;
+    color: #fff !important;
+}
+
+.nav-link{
+    color: #000000B3 !important;
+    font-size: 15px !important;
+    padding: 8px 11.2px !important;
+    font-weight: 500 !important;
+    font-family: "Poppins" !important;
+}
+
+.nav-link:hover{
+    color: #000 !important;
+    font-weight: 500 !important;
+}

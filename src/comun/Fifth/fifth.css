@@ -1,0 +1,28 @@
+.fifth h1{
+    color: #080809;
+    font-size: 28px;
+    font-family: "Poppins";
+    font-weight: 700;
+}
+
+.fifth p{
+    color: #4E4E4E;
+    margin: 0px 0px 8px;
+    font-family: "Poppins";
+    font-size: 18px;
+}
+
+.blue-bullets {
+    list-style-type: disc; 
+    padding-left: 20px; 
+  }
+  
+  .blue-bullets li {
+    color: black; 
+    position: relative;
+  }
+  
+  .blue-bullets li::marker {
+    color: blue; 
+  }
+  

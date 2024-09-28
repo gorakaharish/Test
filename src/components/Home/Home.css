@@ -1,0 +1,117 @@
+.first{
+    background-color: #ceeef8;
+    color: #065872;
+    border: 1px solid #bbe7f5;
+    /* border-color: #bbe7f5; */
+    text-align: center;
+    font-family: "Poppins";
+    padding: 12px 30px 12px 20px;
+    font-size: 15px;
+}
+.first .a{
+    background-color: #ffffff80;
+    border-radius: 50%;
+    padding: 4px 8px;
+    cursor: pointer;
+    color: #DC3545 !important;
+    font-size: 20px;
+}
+.first .a:hover{
+    border: 1px solid #DC3545;
+}
+
+/* second */
+
+.second_part h1{
+    color: #080809;
+    font-family: "Poppins";
+    font-weight: 700;
+    margin: 0px 0px 15px;
+    font-size: 38px;
+}
+
+.second_part h3{
+    color: #080809;
+    font-family: "Poppins";
+    font-weight: 700;
+    margin: 0px 0px 15px;
+    font-size: 28px;
+}
+
+.second_part p{
+    color: #4E4E4E;
+    font-family: "Poppins";
+    font-weight: 500;
+    margin: 0px 0px 8px;
+    font-size: 18px;
+}
+.para{
+    color: #4E4E4E;
+    font-family: "Poppins";
+    font-weight: 500;
+    margin: 0px 0px 8px;
+    font-size: 15px !important;
+}
+
+.second_part p strong{
+    font-weight: 900;
+}
+
+.second_part button {
+    width: auto;
+    /* height: 30px; */
+    padding: 6px 12px;
+    border: none;
+    background-color: #3968C6;
+    color: #fff;
+    font-size: 15px;
+    font-family: "Poppins";
+    font-weight: 600;
+}
+
+/* Custom select dropdown styling */
+.dropdown-container {
+    background-color: #F2F2F2;
+}
+.custom-select {
+    background-color: #7987A1;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    color: #fff;
+  }
+  
+  .arrow {
+    font-size: 12px;
+  }
+  
+  .dropdown-options {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 80%;
+    top: -19%; /* Display options above the select */
+    left: 10%;
+    z-index: 100;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .dropdown-options li {
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .dropdown-options li:hover {
+    background-color: #f0f0f0;
+  }
+  
